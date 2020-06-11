@@ -1,0 +1,32 @@
+lendo arquivo
+tfidf
+6919
+chi-quadrado
+adicionando anterior e posterior
+Inicializando classificador...
+Predicão...
+Classification_report:
+              precision    recall  f1-score   support
+
+          t1       0.80      0.75      0.77       182
+          t2       0.77      0.80      0.78       171
+          t3       0.57      0.54      0.56       574
+          t4       0.57      0.74      0.64       635
+          t5       0.44      0.13      0.21       194
+          t6       0.00      0.00      0.00        12
+          t7       0.88      0.87      0.87       325
+          t8       0.88      0.93      0.90        15
+
+   micro avg       0.65      0.65      0.65      2108
+   macro avg       0.61      0.60      0.59      2108
+weighted avg       0.64      0.65      0.64      2108
+
+
+[[136  42   1   2   0   0   1   0]
+ [ 33 137   1   0   0   0   0   0]
+ [  1   0 309 231  17   0  15   1]
+ [  0   0 130 469  14   0  22   0]
+ [  0   0  88  78  26   0   2   0]
+ [  0   0   5   6   1   0   0   0]
+ [  0   0   5  35   1   0 283   1]
+ [  0   0   0   1   0   0   0  14]]
